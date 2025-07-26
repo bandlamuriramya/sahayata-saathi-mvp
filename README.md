@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Sahayata Saathi Logo" width="150"/>
+</p>
+
 Sahayata Saathi (Awaaz Se Adhikar) 
 
 An AI-powered digital companion that turns government services into a welcoming, accessible experience for everyone.
