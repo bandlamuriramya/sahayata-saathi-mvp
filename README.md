@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="assets/logo.png" alt="Sahayata Saathi Logo" width="150"/>
-</p>
 
 Sahayata Saathi (Awaaz Se Adhikar) 
 
