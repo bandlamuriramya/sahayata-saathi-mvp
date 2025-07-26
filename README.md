@@ -1,7 +1,9 @@
 Sahayata Saathi (Awaaz Se Adhikar) 
 
 An AI-powered digital companion that turns government services into a welcoming, accessible experience for everyone.
+
 ➡️ Watch the 2-Minute Demo Video Here ⬅️
+
 🚀 The Problem
 Millions of citizens are excluded from vital welfare schemes due to language barriers, digital illiteracy, and the complexity of the application process. Sahayata Saathi was built to bridge this gap, ensuring that help is accessible to everyone, regardless of their background.
 
@@ -13,7 +15,7 @@ Our MVP is an "All-Rounder" assistant, an expert on multiple schemes, capable of
 Core Features (MVP)
 Real-Time Voice Understanding: The bot uses Google's Gemini 1.5 Flash model to directly transcribe voice notes in multiple Indian languages, allowing for a true voice-first interaction.
 
-Multi-Scheme Expertise: The AI is trained as an expert on three diverse schemes (Housing, Pension, and Girl Child Savings), allowing it to handle a variety of user needs.
+Multi-Scheme Expertise: The AI is trained as an expert on three diverse schemes (Housing, Pension, and Girl Child Savings), allowing it to handle a variety of user needs.(for now)
 
 Intelligent Need-Based Guidance: The bot doesn't follow a rigid script. It listens to the user's problem and intelligently selects the correct scheme and guidance path.
 
