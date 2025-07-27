@@ -6,7 +6,7 @@ Sahayata Saathi (Awaaz Se Adhikar)
 
 An AI-powered digital companion that turns government services into a welcoming, accessible experience for everyone.
 
-➡️ Watch the 2-Minute Demo Video Here ⬅️
+➡️ Watch the 3-Minute Demo Video Here ⬅️
 
 🚀 The Problem
 Millions of citizens are excluded from vital welfare schemes due to language barriers, digital illiteracy, and the complexity of the application process. Sahayata Saathi was built to bridge this gap, ensuring that help is accessible to everyone, regardless of their background.
